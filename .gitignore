@@ -1,0 +1,12 @@
+# This repo is public. Git only picks up images and the README here, so a
+# stray `git add .` can't publish anything else. Allow another type below if
+# it is ever needed.
+*
+!*/
+!.gitignore
+!README.md
+!*.png
+!*.jpg
+!*.jpeg
+!*.gif
+!*.webp
